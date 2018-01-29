@@ -30,7 +30,7 @@
 }
 
 .carousel-caption {
-	top: 80%;
+	top: 70%;
 	transform: translateY(-50%);
 	text-transform: uppercase;
 }
@@ -40,6 +40,16 @@
 	padding: 12px 22px;
 	background: #5E4485;
 	border: 2px solid #FFF;
+}
+
+.container {
+	margin: 4% auto;
+}
+
+#icon {
+	max-width: 250px;
+	margin: 1% auto;
+	border-radius: 40px
 }
 
 @media (max-width: 600px) {

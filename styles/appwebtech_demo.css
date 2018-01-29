@@ -1,7 +1,30 @@
 .navbar {
 	margin-bottom: 0;
 	border-radius: 0;
-	background-color: #5E4485;
+  background-color: #222222;
 	color: #FFF;
+	padding: 1% 0;
+	font-size: 1.2em;
+	border: 0;
+}
 
+.navbar-brand {
+	float: left;
+	min-height: 55px;
+	padding: 0 15px 5px;
+}
+.navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus, .navbar-inverse .navbar-nav .active a:hover {
+	color: #FFF;
+	 background-color: #222222;
+}
+
+.navbar-brand > img {
+  max-height: 170%;
+  height: 170%;
+  -o-object-fit: contain;
+  object-fit: contain;
+}
+
+.navbar-inverse .navbar-nav li a {
+	color :#D5D5D5;
 }

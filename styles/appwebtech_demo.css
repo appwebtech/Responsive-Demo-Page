@@ -56,6 +56,33 @@
 	border-radius: 200px;
 }
 
+footer {
+	width: 100%;
+	background-color: #AB9989;
+	padding: 3%;
+	color: #FFF;
+}
+
+.josembi {
+	color: ghostwhite;
+}
+
+.fa {
+	padding: 20px;
+	color: #FFF;
+}
+
+.fa:hover {
+	text-decoration: none
+}
+
+@media (max-width: 900px) {
+	.fa {
+			font-size: 20px;
+			padding: 10px;
+		}
+	}
+
 @media (max-width: 600px) {
 	.carousel-caption {
 		display: none;
@@ -67,4 +94,5 @@
 		font-size: 1.7em;
 	}
 }
+
 

@@ -38,7 +38,7 @@ I won't go in depth about static websites as I seldom design them, but I reckon 
 
 # What the webpage should do 
 
-There isn't much logic involved here, just simple coding without the fear of plunging yourself into the forest gump of human misery. Around 40 minutes to one hour and everything is set-up because the web page won't do anything beyond it's intended purpose. This kind of single pages, (not to confuse with  [SPAs](https://msdn.microsoft.com/en-gb/magazine/dn463786.aspx) are intended for is marketing a place, a business or some [papayas](http://www.hawaiipapaya.com/) if it's set-up in Hawaii. 
+There isn't much logic involved here, just simple coding without the fear of plunging yourself into the forest gump of human misery. Around 40 minutes to one hour and everything is set-up because the web page won't do anything beyond it's intended purpose. This kind of single pages, (not to confuse with  [SPAs](https://msdn.microsoft.com/en-gb/magazine/dn463786.aspx) are intended for marketing a place, a business or some [papayas](http://www.hawaiipapaya.com/) if it's set-up in Hawaii. 
 
 
 # Technologies 
@@ -82,7 +82,7 @@ To get started, check out <https://getbootstrap.com>!
 
 Joseph Mwania
 
-## Contacts
+# Contacts
 
 [GitHub](https://github.com/appwebtech)
 
@@ -98,6 +98,6 @@ Joseph Mwania
 
 [LinkedIn](https://www.linkedin.com/company/18389649/admin/updates/)
 
-## License
+# License
 
 Available as open source under [MIT License](https://opensource.org/licenses/MIT)
